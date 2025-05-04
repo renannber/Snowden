@@ -11,19 +11,19 @@ Os programadores podem, conscientemente ou não, criar ferramentas que expõem d
 ## Propósito 
  O guia interno de conduta foi criado para garantir a segurança dos dados pessoais dos usuários e da equipe de desemvolvimento.
 
-### Checklist 
-. Foi ultilizado HTTPS em todas as requisiçoes para proteger os dados em transito ?
-# ()sim  ()não
-. Não foi transmitido informações sensíveis em tecto simples ?
-# ()sim  ()não
-. Evitou amarzenar dados sensíveis no LocalStorage?
-# ()sim  ()não
-. Solicitou somente os dados necessários para a funcionalidade do sistema ?
-# ()sim  ()não
-. Informo claramente ao usuário o motivo da coleta e uso dos dados?
-# ()sim  ()não
-. Foi incluido avisos de privacidade e pedidos de consentimentos claros e visíveis ?
-# ()sim  ()não
+## Checklist 
+ Foi ultilizado HTTPS em todas as requisiçoes para proteger os dados em transito ?
+### ( )sim  ( )não
+ Não foi transmitido informações sensíveis em tecto simples ?
+### ( )sim  ( )não
+ Evitou amarzenar dados sensíveis no LocalStorage?
+### ( )sim  ( )não
+ Solicitou somente os dados necessários para a funcionalidade do sistema ?
+### ( )sim  ( )não
+ Informo claramente ao usuário o motivo da coleta e uso dos dados?
+### ( )sim  ( )não
+ Foi incluido avisos de privacidade e pedidos de consentimentos claros e visíveis ?
+### ( )sim  ( )não
 
 
 
@@ -36,5 +36,5 @@ Os programadores podem, conscientemente ou não, criar ferramentas que expõem d
  ## Você se sente seguro ao usar seus próprios sistemas ?
  Confesso que, antes de assistir ao filme, eu não tinha tanta noção da importância da área de segurança de dados. Sabia que era algo importante, mas não nessa escala. Comecei a olhar com mais cuidado para os sistemas depois disso.
 
-  ## O que o filme Snowden  nos ensina sobre a ética no código?
+ ## O que o filme Snowden  nos ensina sobre a ética no código?
  O filme nos mostra que todo código tem impacto, e cabe a nós, profissionais da tecnologia, ter responsabilidade sobre o que criamos. Snowden acreditava que estava do lado certo e fazendo algo bom, mas, na verdade, estavam usando ele e o sistema que criou para algo ruim  um sistema usado para espionar os usuários. Precisamos sempre estar atentos aos códigos que criamos e refletir sobre como e para que eles serão usados. É necessário agir com responsabilidade e ética em todas as etapas do desenvolvimento.
